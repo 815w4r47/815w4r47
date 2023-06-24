@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @815w4r47
-- 👀 I’m interested in penetration testing
-- 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on cyber security
+- 👀 I’m interested in Machine Learning
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ...
 
 <!---
